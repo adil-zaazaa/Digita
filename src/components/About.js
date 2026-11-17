@@ -63,7 +63,7 @@ export default function About() {
           <span className={styles.eyebrow}>À propos de nous</span>
 
           <h1 className={styles.title}>
-            Votre partenaire <span className="grad-text">digital</span> à Casablanca
+            Votre agence <span className="grad-text">digitale</span> à Casablanca
           </h1>
 
           <p className={styles.body}>
