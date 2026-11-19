@@ -126,6 +126,7 @@ function AboutPage() {
     <main>
       <Suspense fallback={<div style={{ height: 200 }} />}>
         <About />
+        <Contact />
         <Footer />
       </Suspense>
     </main>
